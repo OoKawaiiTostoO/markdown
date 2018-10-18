@@ -2,5 +2,5 @@
 
 ## IMED-1402
 
- *This my fist markdown page*
-this html code is <strong> blold </bold>
+ *This my first markdown page*
+this html code is <strong> bold </bold>
